@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paige!</h1>
 <h3 align="center">A Software Engineer from Ireland who is passionate about accessibility.</h3>
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neurodsolutions&theme=graywhite&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <br>
 
 - 🔭 I’m currently working on **freelance work for small and medium sized businesses**
@@ -15,6 +14,12 @@
 - 📫 How to reach me **paigemparker92@gmail.com**
 
 <br>
+
+<div align="center">
+  <img width="800" src="https://github-readme-streak-stats.herokuapp.com?user=neurodsolutions&theme=dracula"/>
+  </div>
+  
+ <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
