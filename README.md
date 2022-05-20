@@ -1,4 +1,4 @@
-<img align="center" src="https://user-images.githubusercontent.com/92650065/169571492-79e0b9a6-4134-49ea-9ac3-9b5244029782.png" alt="Github banner for Paige Parker"/>
+<img align="center" src="https://user-images.githubusercontent.com/92650065/169574649-fe5a68e0-d08d-4fff-ae32-0518840fbe61.png" alt="Github banner for Paige Parker"/>
 
 <h1 align="left">Hi 👋, I'm Paige!</h1>
 <h3 align="left">A Software Engineer from Ireland who is passionate about accessibility.</h3>
